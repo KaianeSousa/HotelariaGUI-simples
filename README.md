@@ -1,4 +1,5 @@
 # HotelariaGUI-simples
+Interface gráfica de um sistema de hotel para realizar reservas.
 Aplicação simples do código presente no repositório [GerenciamentoHotel-simple](https://github.com/KaianeSousa/GerenciamentoHotel-simple) junto a biblioteca Swing, do Java.
 
 ## Interface
